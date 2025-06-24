@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sage.github.io/</loc>
+         <loc>https://laughking.github.io/sage-page/</loc>
          <lastmod>2025-06-24</lastmod>
     </url>
     <url>
-         <loc>https://sage.github.io/api/</loc>
+         <loc>https://laughking.github.io/sage-page/api/</loc>
          <lastmod>2025-06-24</lastmod>
     </url>
     <url>
-         <loc>https://sage.github.io/architecture/</loc>
+         <loc>https://laughking.github.io/sage-page/architecture/</loc>
          <lastmod>2025-06-24</lastmod>
     </url>
     <url>
-         <loc>https://sage.github.io/quickstart/</loc>
+         <loc>https://laughking.github.io/sage-page/quickstart/</loc>
          <lastmod>2025-06-24</lastmod>
     </url>
     <url>
-         <loc>https://sage.github.io/usage/</loc>
+         <loc>https://laughking.github.io/sage-page/usage/</loc>
          <lastmod>2025-06-24</lastmod>
     </url>
 </urlset>
